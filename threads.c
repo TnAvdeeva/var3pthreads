@@ -156,3 +156,4 @@ void *delete(void*x)
 	}
 	pthread_exit(0);
 }
+//qwqqwqwqw
